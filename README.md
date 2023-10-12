@@ -1,1 +1,2 @@
-# CODSOFT3
+# Calculator
+Web Development Intern Task 3
