@@ -1,2 +1,2 @@
 # Calculator
-Web Development Intern Task 3
+Using JavaScript, HTML and CSS
